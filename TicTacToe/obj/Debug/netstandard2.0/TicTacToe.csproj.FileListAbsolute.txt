@@ -1,0 +1,48 @@
+D:\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csprojAssemblyReference.cache
+D:\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CopyComplete
+D:\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csprojAssemblyReference.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CopyComplete
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\EmuladorTorneoJuegosMesa - copia (2)\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csprojAssemblyReference.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CopyComplete
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csprojAssemblyReference.cache
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CopyComplete
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+F:\EmuladorTorneoJuegosMesa2016\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb

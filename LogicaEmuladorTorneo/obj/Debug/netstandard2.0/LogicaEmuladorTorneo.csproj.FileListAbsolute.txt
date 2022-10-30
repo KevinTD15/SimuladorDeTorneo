@@ -1,0 +1,33 @@
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.deps.json
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csprojAssemblyReference.cache
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csproj.CoreCompileInputs.cache
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfoInputs.cache
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfo.cs
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\EmuladorTorneoJuegosMesa - copia (2)\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csprojAssemblyReference.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csproj.CoreCompileInputs.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfoInputs.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfo.cs
+D:\EmuladorTorneoJuegosMesa - copia (2)\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\EmuladorTorneoJuegosMesa - copia (2)\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.deps.json
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csprojAssemblyReference.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csproj.CoreCompileInputs.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfoInputs.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfo.cs
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.deps.json
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csprojAssemblyReference.cache
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.csproj.CoreCompileInputs.cache
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfoInputs.cache
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.AssemblyInfo.cs
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+F:\EmuladorTorneoJuegosMesa2016\LogicaEmuladorTorneo\obj\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb

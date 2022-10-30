@@ -1,0 +1,48 @@
+D:\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\Domino.deps.json
+D:\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\Domino.dll
+D:\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\Domino.pdb
+D:\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.csprojAssemblyReference.cache
+D:\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.csproj.CoreCompileInputs.cache
+D:\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfoInputs.cache
+D:\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfo.cs
+D:\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.csproj.CopyComplete
+D:\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.dll
+D:\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.pdb
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\bin\Debug\netstandard2.0\Domino.deps.json
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\bin\Debug\netstandard2.0\Domino.dll
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\bin\Debug\netstandard2.0\Domino.pdb
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\obj\Debug\netstandard2.0\Domino.csprojAssemblyReference.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\obj\Debug\netstandard2.0\Domino.csproj.CoreCompileInputs.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfoInputs.cache
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfo.cs
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\obj\Debug\netstandard2.0\Domino.csproj.CopyComplete
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\obj\Debug\netstandard2.0\Domino.dll
+D:\EmuladorTorneoJuegosMesa - copia (2)\Domino\obj\Debug\netstandard2.0\Domino.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.csprojAssemblyReference.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.csproj.CoreCompileInputs.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfoInputs.cache
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfo.cs
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\Domino.deps.json
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\Domino.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\Domino.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+D:\!!!UniVerSiDaD\I Ano\Programacion\proyecto torneo\EmuladorTorneoJuegosMesa\Domino\obj\Debug\netstandard2.0\Domino.csproj.CopyComplete
+F:\EmuladorTorneoJuegosMesa2016\Domino\bin\Debug\netstandard2.0\Domino.deps.json
+F:\EmuladorTorneoJuegosMesa2016\Domino\bin\Debug\netstandard2.0\Domino.dll
+F:\EmuladorTorneoJuegosMesa2016\Domino\bin\Debug\netstandard2.0\Domino.pdb
+F:\EmuladorTorneoJuegosMesa2016\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.dll
+F:\EmuladorTorneoJuegosMesa2016\Domino\bin\Debug\netstandard2.0\LogicaEmuladorTorneo.pdb
+F:\EmuladorTorneoJuegosMesa2016\Domino\obj\Debug\netstandard2.0\Domino.csprojAssemblyReference.cache
+F:\EmuladorTorneoJuegosMesa2016\Domino\obj\Debug\netstandard2.0\Domino.csproj.CoreCompileInputs.cache
+F:\EmuladorTorneoJuegosMesa2016\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfoInputs.cache
+F:\EmuladorTorneoJuegosMesa2016\Domino\obj\Debug\netstandard2.0\Domino.AssemblyInfo.cs
+F:\EmuladorTorneoJuegosMesa2016\Domino\obj\Debug\netstandard2.0\Domino.csproj.CopyComplete
+F:\EmuladorTorneoJuegosMesa2016\Domino\obj\Debug\netstandard2.0\Domino.dll
+F:\EmuladorTorneoJuegosMesa2016\Domino\obj\Debug\netstandard2.0\Domino.pdb
